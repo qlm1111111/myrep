@@ -7,4 +7,6 @@ public class World {
     int c=250;
 
     int b=10;
+
+    String o="jasj";
 }
