@@ -6,4 +6,5 @@ public class World {
     String name="tomahsjh";
     int c=250;
 
+    int b=10;
 }
