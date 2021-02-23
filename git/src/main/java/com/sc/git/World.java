@@ -8,5 +8,8 @@ public class World {
 
     int b=10;
 
+
+    String s="qlm";
+
     String o="jasj";
 }
